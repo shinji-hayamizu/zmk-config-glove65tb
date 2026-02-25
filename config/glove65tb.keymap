@@ -91,7 +91,7 @@
             bindings = <
 &trans  &trans  &trans  &trans  &trans  &trans                     &trans  &trans  &kp MINUS  &kp EQUAL         &kp INTERNATIONAL_3  &trans
 &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans     &trans  &trans  &trans     &kp LEFT_BRACKET  &kp RIGHT_BRACKET    &trans
-&trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans     &trans  &trans  &kp SEMI   &kp APOS          &kp BACKSLASH        &trans
+&trans  &kp A   &trans  &trans  &trans  &trans  &trans  &trans     &trans  &trans  &kp SEMI   &kp APOS          &kp BACKSLASH        &trans
 &trans  &trans  &trans  &trans  &trans  &trans  &trans  &kp UNDER  &trans  &trans  &trans     &trans            &kp LS(0x87)         &trans
 &trans  &trans  &trans  &trans  &trans  &trans  &trans  &trans     &trans                                       &trans               &trans
             >;
