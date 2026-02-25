@@ -47,7 +47,7 @@ layers:
   - C
   - V
   - B
-  - ;
+  - {t: ;, h: FUN}
   - {t: '-', h: SYM}
   - N
   - M
