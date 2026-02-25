@@ -111,7 +111,7 @@
         function_layer {
             label = "FUN";
             bindings = <
-&kp C_BRIGHTNESS_DEC  &kp C_BRI_INC  &kp F2             &kp F3             &kp F4             &kp F5                                &kp K_PREVIOUS  &kp K_PLAY_PAUSE  &kp K_NEXT  &kp K_MUTE          &kp C_VOLUME_DOWN       &kp C_VOLUME_UP
+&kp C_BRIGHTNESS_DEC  &kp C_BRI_INC  &kp F2             &kp F3             &kp F4             &kp F5                                &kp C_PREVIOUS  &kp C_PLAY_PAUSE  &kp C_NEXT  &kp K_MUTE          &kp C_VOLUME_DOWN       &kp C_VOLUME_UP
 &trans                &trans         &trans             &kp LG(LEFT)       &kp LG(RIGHT)      &trans     &trans             &trans  &trans          &trans            &trans      &trans              &kp LA(LG(LEFT_ARROW))  &kp LA(LG(RIGHT_ARROW))
 &trans                &trans         &trans             &kp LG(LA(LEFT))   &kp LG(LA(RIGHT))  &trans     &kp C_VOLUME_UP    &trans  &trans          &trans            &trans      &kp LC(LEFT_ARROW)  &kp LC(UP_ARROW)        &kp LC(RIGHT_ARROW)
 &trans                &trans         &kp LG(LC(COMMA))  &kp LG(LC(LA(M)))  &kp LG(LC(SLASH))  &trans     &kp C_VOLUME_DOWN  &trans  &trans          &trans            &trans      &kp LG(LC(COMMA))   &kp LG(LA(LC(M)))       &kp LG(LC(SLASH))
