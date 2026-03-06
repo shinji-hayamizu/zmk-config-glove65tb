@@ -56,7 +56,7 @@ layers:
   - /
   - RIGHT SHIFT
   - LEFT ALT
-  - NUM
+  - Gui+ESCAPE
   - LEFT CONTROL
   - SCROLL
   - FUN
@@ -122,12 +122,12 @@ layers:
   - Sft+0x87
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
+  - {t: ▽, type: trans}
   - {type: held}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
-  - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
   - {t: ▽, type: trans}
