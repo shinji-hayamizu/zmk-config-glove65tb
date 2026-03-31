@@ -58,7 +58,7 @@ layers:
   - LEFT ALT
   - Gui+ESCAPE
   - LEFT CONTROL
-  - SCROLL
+  - F1
   - FUN
   - {t: LANGUAGE 2, h: LEFT GUI}
   - {t: SPACE, h: NUM}
