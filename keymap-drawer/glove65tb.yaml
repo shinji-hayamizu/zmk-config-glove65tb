@@ -58,7 +58,7 @@ layers:
   - LEFT ALT
   - Gui+ESCAPE
   - LEFT CONTROL
-  - F1
+  - F12
   - FUN
   - {t: LANGUAGE 2, h: LEFT GUI}
   - {t: SPACE, h: NUM}
